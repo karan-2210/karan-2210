@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karan-2210
-- 👀 I’m interested in high salary package.
-- 🌱 I’m currently learning Data Structure and Algorithm.
+- 👀 I’m interested in internship opportunities.
+- 🌱 I’m currently decoding Data Structure and Algorithm.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me karan.221032@gmail.com
 - 😄 Pronouns: He/Him
