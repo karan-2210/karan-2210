@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karan-2210
+- 👋 Hi, I’m @karan
 - 👀 I’m interested in internship opportunities.
 - 🌱 I’m currently decoding Data Structure and Algorithm.
 - 💞️ I’m looking to collaborate on ...
